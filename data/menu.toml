@@ -1,0 +1,19 @@
+[[entries]]
+  title = "about"
+
+  [[entries.entries]]
+    title = "linkedin"
+    url = "https://www.linkedin.com/in/girish-vλas/"
+
+  [[entries.entries]]
+    title = "github"
+    url = "https://github.com/ArchKudo"
+
+[[entries]]
+title = "posts"
+
+  [entries.post_list]
+  limit = 100
+  show_more = true
+  show_more_text = "Older..."
+  show_more_url = "posts"
